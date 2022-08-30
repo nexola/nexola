@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm nexola</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
+- 🖐 My name is **Vitor Vianna, I'm 23 yo**
+
 - 🔭 I’m currently working on **AndroidStudio projects**
 
 - 🌱 I’m currently learning **Python and Java**
 
 - 🤝 I’m looking for help with **Javascript**
-
-- 💬 Ask me about **Chemistry and Python**
 
 - 📫 How to reach me **vitormatheusfv@gmail.com**
 
