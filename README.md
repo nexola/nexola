@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm nexola</h1>
+<h1 align="center">Hi 👋, I'm Nexola</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
 - 🖐 My name is **Vitor Vianna, I'm 23 yo**
