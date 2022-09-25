@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AndroidStudio projects**
 
-- 🌱 I’m currently learning **Python and Java**
+- 🌱 I’m currently learning **Web development**
 
 - 🤝 I’m looking for help with **Javascript**
 
