@@ -3,7 +3,7 @@
 
 - 🖐 My name is **Vitor Vianna, I'm 23 yo**
 
-- 🔭 I’m currently working on **AndroidStudio projects**
+- 🔭 I’m currently working on **Web projects**
 
 - 🌱 I’m currently learning **Web development**
 
