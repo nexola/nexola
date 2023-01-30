@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nexola</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🖐 My name is **Vitor Vianna, I'm 23 yo**
+- 🖐 My name is **Vitor Vianna, I'm 24 yo**
 
 - 🔭 I’m currently working on **Web projects**
 
