@@ -3,11 +3,9 @@
 
 - 🖐 My name is **Vitor Vianna, I'm 24 yo**
 
-- 🔭 I’m currently working on **Web projects**
+- 🌱 I’m currently learning **Web development / Java**
 
-- 🌱 I’m currently learning **Web development**
-
-- 🤝 I’m looking for help with **Javascript**
+- 🤝 I’m looking for help with **Javascript and UX/UI Design**
 
 - 📫 How to reach me **vitormatheusfv@gmail.com**
 
