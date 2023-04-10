@@ -3,11 +3,11 @@
 
 - 🖐 My name is **Vitor Vianna, I'm 24 yo**
 
-- 🌱 I’m currently learning **Web development / Java**
+- 🌱 Currently learning **Web development / Java**
 
-- 🤝 I’m looking for help with **Javascript and UX/UI Design**
+- 🤝 Looking for help with **Javascript and UX/UI Design**
 
-- 📫 How to reach me **vitormatheusfv@gmail.com**
+- 📫 How to reach me -> **vitormatheusfv@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vitor-vianna-a53075215/](https://www.linkedin.com/in/vitor-vianna-a53075215/)
 
