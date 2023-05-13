@@ -3,9 +3,7 @@
 
 - 🖐 My name is **Vitor Vianna, I'm 24 yo**
 
-- 🌱 Currently learning **Web development / Java**
-
-- 🤝 Looking for help with **Javascript and UX/UI Design**
+- 🌱 Currently learning **Java / Spring boot**
 
 - 📫 How to reach me -> **vitormatheusfv@gmail.com**
 
