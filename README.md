@@ -7,8 +7,9 @@
 
 - 📫 How to reach me -> **vitormatheusfv@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/vitor-vianna-a53075215/](https://www.linkedin.com/in/vitor-vianna-a53075215/)
+- 📄 Know about my experiences -> [https://www.linkedin.com/in/vitor-vianna-a53075215/](https://www.linkedin.com/in/vitor-vianna-a53075215/)
 
+- 📁 Also try my portfolio -> [https://nexola.github.io/portfolio-website/](https://nexola.github.io/portfolio-website/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vitor-vianna-a53075215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vitor-vianna-a53075215/" height="30" width="40" /></a>
