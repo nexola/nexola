@@ -12,11 +12,6 @@
 - 📁 Also try my portfolio -> [https://nexola.github.io/portfolio-website/](https://nexola.github.io/portfolio-website/)
 
 <br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexola&title_color=fad638&icon_color=daa00c&text_color=ffffff&theme=transparent&rank_icon=github&show_icons=true)](https://github.com/nexola/github-readme-stats) &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexola&title_color=fad638&text_color=ffffff&theme=transparent&layout=compact)](https://github.com/nexola/github-readme-stats)
-
-
-  
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
