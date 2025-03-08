@@ -1,16 +1,16 @@
 <h1 align="center">Hey! I'm Vitor Vianna</span> (Nexola)</h1>
 
-- **25 yo**
+**26 yo**
 
-- **Currently learning Rest API with Java Spring boot**
+**Fullstack developer / Spring, JPA, Servlet, Thymeleaf, JSTL, React**
 
-- 📫 How to reach me -> **vitormatheusfv@gmail.com**
+Currently undergoing internship at [Univercode](https://univercode.com.br/)
 
-- 📄 Know about my experiences -> [https://www.linkedin.com/in/vitor-vianna-a53075215/](https://www.linkedin.com/in/vitor-vianna-a53075215/)
+📫 Reach me via email -> **vitormatheusfv@gmail.com**
 
-- 📁 Also try my portfolio -> [https://nexola.github.io/portfolio-website/](https://nexola.github.io/portfolio-website/)
+📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/vitor-vianna-a53075215/)
 
-<br>
+📁 Also try my [Portfolio](https://nexola.github.io/portfolio-website/)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
